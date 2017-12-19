@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Layout for individual items in list -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    android:paddingLeft="8dp">
+
+    <!-- Thumbnail image -->
+    <ImageView
+        android:id="@+id/place_image_view"
+        android:layout_width="@dimen/list_image_width"
+        android:layout_height="@dimen/list_image_height"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/placeholder" />
+
+    <!-- Place details -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:id="@+id/name_text_view"
+            style="@style/ListItemStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            tools:text="name" />
+
+        <TextView
+            android:id="@+id/address_text_view"
+            style="@style/ListItemStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/name_text_view"
+            android:autoLink="map"
+            tools:text="address" />
+
+        <TextView
+            android:id="@+id/telephone_text_view"
+            style="@style/ListItemStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/address_text_view"
+            android:autoLink="phone"
+            tools:text="telephone" />
+
+        <TextView
+            android:id="@+id/web_text_view"
+            style="@style/ListItemStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/telephone_text_view"
+            android:autoLink="web"
+            tools:text="web" />
+    </RelativeLayout>
+
+</LinearLayout>

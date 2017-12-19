@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">Guide To DC</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_see">See</string>
+    <string name="category_see_bg">Image of DC skyline courtesy rpmwashingtondc.com/</string>
+
+    <!-- Category name for shops [CHAR LIMIT=20] -->
+    <string name="category_shop">Shop</string>
+    <string name="category_shop_bg">Image of Eastern Market courtesy capitolhillcorner.org</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_eat">Eat</string>
+    <string name="category_eat_bg">Image of Taste of DC courtesy hungrylobbyist.com/</string>
+
+    <!-- Category name for hotels [CHAR LIMIT=20] -->
+    <string name="category_stay">Stay</string>
+    <string name="category_stay_bg">Image of hotel courtesy Hanquan Chen/Getty Images</string>
+
+    <!-- See fragment -->
+    <string name="see1_name">African American Civil War Memorial</string>
+    <string name="see1_address">1925 Vermont Ave. NW</string>
+    <string name="see1_telephone">(202) 667-2667</string>
+    <string name="see1_web">afroamcivilwar.org</string>
+
+    <string name="see2_name">Arlington National Cemetery</string>
+    <string name="see2_address">Arlington, VA 22211</string>
+    <string name="see2_telephone">(877) 907-8585</string>
+    <string name="see2_web">arlingtoncemetery.mil</string>
+
+    <string name="see3_name">Bureau of Engraving and Printing</string>
+    <string name="see3_address">14th and C St. SW</string>
+    <string name="see3_telephone">(877)874-4114</string>
+    <string name="see3_web">moneyfactory.gov</string>
+
+    <string name="see4_name">Ford\'s Theatre</string>
+    <string name="see4_address">511 10th St. NW </string>
+    <string name="see4_telephone">(202) 347-4833</string>
+    <string name="see4_web">fords.org</string>
+
+    <string name="see5_name">International Spy Museum</string>
+    <string name="see5_address">800 F St. NW </string>
+    <string name="see5_telephone">(866) 779-6873 </string>
+    <string name="see5_web">spymuseum.org</string>
+
+    <string name="see6_name">Lincoln Memorial</string>
+    <string name="see6_address">Independence Ave. and 23rd St. NW</string>
+    <string name="see6_telephone">(202) 426-6841</string>
+    <string name="see6_web">nps.gov/linc</string>
+
+    <string name="see7_name">Martin Luther King, Jr. Memorial</string>
+    <string name="see7_address">1964 Independence Ave. SW</string>
+    <string name="see7_telephone">(202) 426-6841</string>
+    <string name="see7_web">nps.gov/mlkm</string>
+
+    <string name="see8_name">Library of Congress</string>
+    <string name="see8_address">101 First St. SE</string>
+    <string name="see8_telephone">(202) 707-5218</string>
+    <string name="see8_web">loc.gov</string>
+
+
+    <!-- Shop fragment -->
+    <string name="shop1_name">Eastern Market</string>
+    <string name="shop1_address">225 7th St. SE</string>
+    <string name="shop1_telephone">(202) 698-5253</string>
+    <string name="shop1_web">easternmarket-dc.org</string>
+
+    <string name="shop2_name">Kramerbooks and Afterwords Cafe</string>
+    <string name="shop2_address">1517 Connecticut Ave. NW</string>
+    <string name="shop2_telephone">(202) 387-1400</string>
+    <string name="shop2_web">kramers.com</string>
+
+    <string name="shop3_name">Artist\'s Proof Gallery</string>
+    <string name="shop3_address">1533 Wisconsin Ave. NW</string>
+    <string name="shop3_telephone">(202) 803-2782</string>
+    <string name="shop3_web">aproof.net</string>
+
+    <string name="shop4_name">Baked by Yael</string>
+    <string name="shop4_address">3000 Connecticut Ave. NW</string>
+    <string name="shop4_telephone">(202) 234-9235</string>
+    <string name="shop4_web">bestcakepopever.com</string>
+
+    <string name="shop5_name">Cross MacKenzie Gallery</string>
+    <string name="shop5_address">1675 Wisconsin Ave. NW</string>
+    <string name="shop5_telephone">(202) 337-7970</string>
+    <string name="shop5_web">crossmackenzie.com</string>
+
+    <string name="shop6_name">Decatur House on Lafayette Square</string>
+    <string name="shop6_address">1610 H St. NW</string>
+    <string name="shop6_telephone">(202) 842-0917</string>
+    <string name="shop6_web">decaturhouse.org</string>
+
+    <string name="shop7_name">Keith Lipert Corporate Gifts</string>
+    <string name="shop7_address">2922 M St. NW</string>
+    <string name="shop7_telephone">(202) 965-9736</string>
+    <string name="shop7_web">keithlipertcorporate.com</string>
+
+    <string name="shop8_name">Macy\'s Metro Center</string>
+    <string name="shop8_address">1201 G St. NW</string>
+    <string name="shop8_telephone">(202) 628-6661</string>
+    <string name="shop8_web">visitmacysusa.com</string>
+
+    <!-- Eat fragment -->
+    <string name="eat1_name">1789 Restaurant</string>
+    <string name="eat1_address">1226 36th St. NW</string>
+    <string name="eat1_telephone">(202) 965-1789</string>
+    <string name="eat1_web">1789restaurant.com</string>
+
+    <string name="eat2_name">Alba Osteria</string>
+    <string name="eat2_address">425 Eye St. NW</string>
+    <string name="eat2_telephone">(202) 733-4454</string>
+    <string name="eat2_web">albaosteriadc.com </string>
+
+    <string name="eat3_name">Ben\'s Chili Bowl</string>
+    <string name="eat3_address">1213 U St. NW</string>
+    <string name="eat3_telephone">(202) 667-0909</string>
+    <string name="eat3_web">benschilibowl.com</string>
+
+    <string name="eat4_name">China Chilcano</string>
+    <string name="eat4_address">418 7th St. NW</string>
+    <string name="eat4_telephone">(202) 783-0941</string>
+    <string name="eat4_web">chinachilcano.com</string>
+
+    <string name="eat5_name">Del Frisco\'s Double Eagle Steakhouse</string>
+    <string name="eat5_address">950 I (Eye) St. NW</string>
+    <string name="eat5_telephone">(202) 289-0201</string>
+    <string name="eat5_web">delfriscos.com</string>
+
+    <string name="eat6_name">Espita Mezcaleria</string>
+    <string name="eat6_address">1250 9th St. NW</string>
+    <string name="eat6_telephone">(202) 621-9695</string>
+    <string name="eat6_web">espitadc.com</string>
+
+    <string name="eat7_name">Fogo de Chao</string>
+    <string name="eat7_address">1101 Pennsylvania Ave. NW</string>
+    <string name="eat7_telephone">(202) 347-4668</string>
+    <string name="eat7_web">fogo.com</string>
+
+    <string name="eat8_name">Georgia Brown\'s Fine Southern Cuisine</string>
+    <string name="eat8_address">950 15th St. NW</string>
+    <string name="eat8_telephone">(202) 393-4499</string>
+    <string name="eat8_web">gbrowns.com</string>
+
+    <!-- Stay fragment -->
+    <string name="stay1_name">Adam\'s Inn</string>
+    <string name="stay1_address">1746 Lanier Pl. NW</string>
+    <string name="stay1_telephone">(202) 745-3600</string>
+    <string name="stay1_web">adamsinn.com</string>
+
+    <string name="stay2_name">Beacon Hotel</string>
+    <string name="stay2_address">1615 Rhode Island Ave. NW</string>
+    <string name="stay2_telephone">(800) 821-4367</string>
+    <string name="stay2_web">beaconhotelwdc.com</string>
+
+    <string name="stay3_name">Capital Hilton</string>
+    <string name="stay3_address">1001 16th St. NW</string>
+    <string name="stay3_telephone">(202) 393-1000</string>
+    <string name="stay3_web">capital.hilton.com</string>
+
+    <string name="stay4_name">The Dupont Circle Hotel</string>
+    <string name="stay4_address">1500 New Hampshire Ave. NW</string>
+    <string name="stay4_telephone">(202) 483-6000</string>
+    <string name="stay4_web">doylecollection.com/hotels/the-dupont-circle-hotel</string>
+
+    <string name="stay5_name">The Embassy Row Hotel</string>
+    <string name="stay5_address">2015 Massachusetts Ave. NW</string>
+    <string name="stay5_telephone">(855) 893-1011</string>
+    <string name="stay5_web">destinationhotels.com/embassy-row-hotel</string>
+
+    <string name="stay6_name">Four Seasons Hotel</string>
+    <string name="stay6_address">2800 Pennsylvania Ave. NW</string>
+    <string name="stay6_telephone">(202) 342-0444</string>
+    <string name="stay6_web">fourseasons.com/washington</string>
+
+    <string name="stay7_name">Georgetown Inn</string>
+    <string name="stay7_address">1310 Wisconsin Ave. NW</string>
+    <string name="stay7_telephone">(866) 308-8883</string>
+    <string name="stay7_web">georgetowninn.com</string>
+
+    <string name="stay8_name">The Hay-Adams</string>
+    <string name="stay8_address">800 16th St. NW</string>
+    <string name="stay8_telephone">(800) 424-5054</string>
+    <string name="stay8_web">hayadams.com</string>
+</resources>
